@@ -27,6 +27,9 @@ Tout ce qui est listé ici tourne pour de vrai — pas de repo vitrine.
 | **[sam-and-the-guides](https://github.com/8b4p7b6v74-ship-it/sam-and-the-guides)** | Convoi de 3 robots qui guident physiquement une personne aveugle dans une ville miniature. Zéro caméra : sonars + marqueurs au sol. Hub Web Bluetooth + interface vocale. | MicroPython · XRPLib · Web Bluetooth |
 | **[athenabrief](https://github.com/8b4p7b6v74-ship-it/athenabrief)** | Agence de renseignement personnelle : pipeline async en 15 phases, 9 moteurs d'analyse, mémoire dans un vault Obsidian. 126 tests. | Python · asyncio · Claude API |
 | **[jarvis-hud](https://github.com/8b4p7b6v74-ship-it/jarvis-hud)** | HUD vocal type J.A.R.V.I.S. pour assistant local. Stdlib Python uniquement, TTS neuronal Piper, 100% hors ligne. | Python · Piper TTS · SQLite |
+| **[unified-music-streamer](https://github.com/8b4p7b6v74-ship-it/unified-music-streamer)** | SDK qui unifie Spotify, Apple Music, Deezer, Tidal et Amazon Music derrière une seule interface TypeScript. | TypeScript · Node.js |
+| **[ollama-bench](https://github.com/8b4p7b6v74-ship-it/ollama-bench)** | Mesure le débit réel (TTFT, tokens/s) de modèles Ollama locaux. Zéro dépendance. | Python |
+| **[piper-say](https://github.com/8b4p7b6v74-ship-it/piper-say)** | Le `say` de macOS avec une voix neuronale Piper, 100% hors ligne, repli automatique. | Python |
 | **MULTICHA** | App publiée sur l'App Store (code privé). | Swift · React Native |
 
 ---
